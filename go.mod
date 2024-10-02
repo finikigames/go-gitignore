@@ -1,4 +1,4 @@
-module github.com/sabhiram/go-gitignore
+module github.com/finikigames/go-gitignore
 
 go 1.23.1
 
